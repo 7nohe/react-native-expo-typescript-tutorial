@@ -1,6 +1,19 @@
 Web開発者のためのクロスプラットフォームアプリ開発
 https://speakerdeck.com/7nohe/webkai-fa-zhe-falsetamefalsekurosupuratutohuomuapurikai-fa
 
+## 内容
+
+- React
+- TypeScript
+- React Native
+- Expo
+- Native Base
+- 外部API取得表示
+- ナビゲーション
+- カメラ
+- 状態管理
+
+
 ## React
 
 
